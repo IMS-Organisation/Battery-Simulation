@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use our work, please cite it as below."
+authors:
+- family-names: "Bisinger"
+  given-names: "Florian"
+- family-names: "Grenz"
+  given-names: "Erwin"
+- family-names: "Schopf"
+  given-names: "Ian"
+title: "SIMULATION OF BATTERY CT-SCANNING FOR ELECTRICAL VEHICLES"
+doi: 10.5281/zenodo.10962597
+date-released: 2024-04-11
+url: "https://github.com/Fbisinger/BatteryCT/"
